@@ -4,8 +4,8 @@
 Game begin: 
 computer choice: random int selection 1-10 (1 int)
 user input int : user select function: (user input int: 
-	if int = to computer select int (returns true) and message "YOU 	WON! 😄": 
-	if int != computer select int (returns false) get message "Sorry 	try again☹️") 
+	if int = to computer select int (returns true) and message "YOU WON! 😄": 
+	if int != computer select int (returns false) get message "Sorry try again☹️") 
 user select function to repeat total of 3 times, or if user selects computer int returns "YOU WON!😄" message
 if user input returns false during 3 cycles: get message "Try Again Next Time 😏" 
 End of game.
