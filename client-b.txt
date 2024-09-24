@@ -2,3 +2,8 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Map out facility, use x:y coordinates to show locations (restrooms, offices, points of interest)
+User to input current location (variable).
+User to input location (variable) to map (restroom, offices, etc. User does not need to know the x:y coordinates)
+Run program to give route/directions (left, right, straight, etc. along with footage traveled)
+Loop program for each point of interest input to map. Allow for return route/directions to return to starting location. 
