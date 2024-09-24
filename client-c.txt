@@ -3,6 +3,6 @@
 # ------------------------------------------------- #
 
 Scanner to link to counter program.
-Program to count int by 2 (as box contains 2 products)
+With each scan, Program to count int by 2 (as box contains 2 products)
 Program to cut off at int 50 (total units able to box in a single box)
 Once counter hits 50, will loop to 2 and repeat for next box. 
